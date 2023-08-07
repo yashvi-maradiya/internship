@@ -41,15 +41,3 @@ let Mynumber2=9876n
 console.log(Mynumber1+ Mynumber2)
 console.log(Mynumber1* Mynumber2)
 
-
-
-
-
-
-
-
-
-
-
-
-
